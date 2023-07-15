@@ -16,7 +16,7 @@
 		Visit <a  class="bg-primary text-white hover:underline p-1" href="https://tailwindcss.com">tailwindcss.com</a> to learn about TailwindCSS
 	</p>
 	<p class="mb-12">
-		Yes, you can remove <span  class="bg-primary text-white p-1"> +page.svelte </span> file and you can start making your awesome website.
+		Yes, you can remove markup that inside the <span  class="bg-gray-800 text-white p-1"> +page.svelte </span> file and you can start making your awesome website.
 	</p>
 
 	<div class="mb-4">
